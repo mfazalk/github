@@ -1,0 +1,6 @@
+{
+  "name": "OctoTest — GitHub Testing Suite",
+  "description": "Comprehensive developer testbench for GitHub REST APIs, Webhook HMAC signature generation & dispatch, Actions CI/CD workflow validation, and Git PR status testing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
